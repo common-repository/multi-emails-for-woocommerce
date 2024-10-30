@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2024-02-01 09:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: multi-emails-for-woocommerce.php:73
+#, php-format
+msgid "%1$s need %2$s version %3$s or greater."
+msgstr "%1$s a besoin de la version %2$s %3$s ou supérieure."
+
+#: multi-emails-for-woocommerce.php:88
+msgid "Activate WooCommerce"
+msgstr "Activer WooCommerce"
+
+#: multi-emails-for-woocommerce.php:91
+msgid "Install WooCommerce"
+msgstr "Installer WooCommerce"
+
+#: multi-emails-for-woocommerce.php:96
+#, php-format
+msgid "%1$s need %2$s to be installed and activated to function properly. %3$s"
+msgstr "%1$s a besoin que %2$s soit installé et activé pour fonctionner correctement. %3$s"
+
+#: inc/main.php:41 inc/main.php:50
+msgid "Cheating huh?"
+msgstr "Vous trichez, hein ?"
+
+#: inc/main.php:77
+msgid "Settings"
+msgstr "Paramètres"
+
+#: inc/main.php:90
+msgid "Donation for Homeless"
+msgstr "Don pour les sans-abri"
+
+#: inc/utils.php:81
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: inc/admin/admin.php:112
+msgid "How do you like %s? Your feedback assures the continued maintenance of this plugin! %s."
+msgstr "Comment aimez-vous %s ? Vos commentaires assurent la maintenance continue de ce plugin ! %s."
+
+#: inc/admin/admin.php:115
+msgid "Leave Feedback"
+msgstr "Laisser les commentaires"
+
+#: inc/admin/admin.php:112
+msgid "Dismiss this notice."
+msgstr "Ne tenez pas compte de cet avertissement."
+
+#: inc/admin/admin.php:121
+msgid "Multi-Emails"
+msgstr "Multi-e-mails"
+
+#: inc/admin/admin.php:147 inc/admin/settings.php:26
+msgid "Field title"
+msgstr "Titre du champ"
+
+#: inc/admin/admin.php:148
+msgid "Do you want to remove this field?"
+msgstr "Voulez-vous supprimer ce champ ?"
+
+#: inc/admin/admin.php:149
+msgid "Search category"
+msgstr "Catégorie de recherche"
+
+#: inc/admin/admin.php:150
+msgid "Search product"
+msgstr "Rechercher un produit"
+
+#: inc/admin/admin.php:151
+msgid "Do you want to delete this recipient?"
+msgstr "Voulez-vous supprimer ce destinataire ?"
+
+#: inc/admin/admin.php:199
+msgid "Multiple Email Recipients"
+msgstr "Plusieurs destinataires de courrier électronique"
+
+#: inc/admin/settings.php:42
+msgid "Multiple Email Settings"
+msgstr "Paramètres de messagerie multiples"
+
+#: inc/admin/settings.php:52
+msgid "Company Recipient(s)"
+msgstr "Entreprise Destinataire(s)"
+
+#: inc/admin/settings.php:55
+msgid "Enter any email to deliver cart order for fullfillment using any category or product."
+msgstr "Entrez n’importe quel e-mail pour livrer la commande du panier pour exécution en utilisant n’importe quelle catégorie ou produit."
+
+#: inc/admin/settings.php:70 inc/admin/settings.php:168
+msgid "Email address(es)"
+msgstr "Adresses mail)"
+
+#: inc/admin/settings.php:92
+msgid "Add Recipient"
+msgstr "Ajouter un destinataire"
+
+#: inc/admin/settings.php:99
+msgid "Additional Email Notifications"
+msgstr "Notifications supplémentaires par courrier électronique"
+
+#: inc/admin/settings.php:106
+msgid "Enable this option for additional customer email notifications."
+msgstr "Activez cette option pour les notifications supplémentaires par e-mail des clients."
+
+#: inc/admin/settings.php:114
+msgid "Customer Email Labels"
+msgstr "Étiquettes de courrier électronique des clients"
+
+#: inc/admin/settings.php:119
+msgid "Please enter the label of the email field, it will display in the user's account and checkout."
+msgstr "Veuillez saisir le libellé du champ e-mail, il s'affichera dans le compte de l'utilisateur et lors du paiement."
+
+#: inc/admin/settings.php:125
+msgid "Add email field"
+msgstr "Ajouter un champ e-mail"
+
+#: inc/admin/settings.php:132
+msgid "Display Additional Email Fields"
+msgstr "Afficher des champs de courrier électronique supplémentaires"
+
+#: inc/admin/settings.php:141
+msgid "Account page"
+msgstr "Page de compte"
+
+#: inc/admin/settings.php:146
+msgid "Checkout"
+msgstr "Vérifier"
+
+#: inc/admin/settings.php:172
+msgid "Search for category"
+msgstr "Rechercher une catégorie"
+
+#: inc/admin/settings.php:257
+msgid "Product Order Conflict Notice"
+msgstr "Avis de conflit de commande de produits"
+
+#: inc/admin/settings.php:263
+msgid "Deactivate conflict notice"
+msgstr "Désactiver l'avis de conflit"
+
+#: inc/admin/settings.php:267
+msgid "The text notice is injected in the cart if an item is selected that is not of the same vendor as the other item(s) already selected."
+msgstr "L'avis textuel est injecté dans le panier si un article sélectionné n'est pas du même fournisseur que le ou les autres articles déjà sélectionnés."
